@@ -1,15 +1,2 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Rudaw" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/Rudaw.png" group-title="Kurdish",Rudaw TV
-https://rudawlive.siloverasw.com/liveedge/rudawlive_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="Kurdistan24" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/channels/Kurdistan24.png" group-title="Kurdish",Kurdistan 24
-https://k24live.siloverasw.com/liveedge/k24live_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="WaarTV" group-title="Kurdish",Waar TV
-https://waartv.siloverasw.com/liveedge/waartv_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="MBC1" group-title="Arabic",MBC 1
-http://shls-mbc1-prod-dub.secure.footprint.net/Live/HLS/playlist.m3u8
-#EXTM3U
-#EXTINF:-1,Loading All UK Channels...
 https://iptv-org.github.io/iptv/countries/gb.m3u
+
