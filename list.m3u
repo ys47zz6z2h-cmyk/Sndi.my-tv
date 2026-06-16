@@ -10,3 +10,6 @@ https://waartv.siloverasw.com/liveedge/waartv_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="MBC1" group-title="Arabic",MBC 1
 http://shls-mbc1-prod-dub.secure.footprint.net/Live/HLS/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,Loading All UK Channels...
+https://iptv-org.github.io/iptv/countries/gb.m3u
